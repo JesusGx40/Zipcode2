@@ -81,14 +81,15 @@ WSGI_APPLICATION = 'core.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
+# mysql://root:dBdDG1AdHfFf53fhgdFcCbAC1DGFG3h1@viaduct.proxy.rlwy.net:52927/railway
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'codigopostaldjango',  # Reemplaza con el nombre de tu base de datos
+        'NAME': 'railway',  # Reemplaza con el nombre de tu base de datos
         'USER': 'root',    # Reemplaza con el nombre de usuario de tu base de datos MySQL
-        'PASSWORD': '123456',   # Reemplaza con la contraseña de tu base de datos MySQL
-        'HOST': 'localhost',        # Puede ser un host diferente si la base de datos no está en tu máquina local
-        'PORT': '3306',                 # Puerto de la base de datos (generalmente vacío para MySQL)
+        'PASSWORD': 'dBdDG1AdHfFf53fhgdFcCbAC1DGFG3h1',   # Reemplaza con la contraseña de tu base de datos MySQL
+        'HOST': 'viaduct.proxy.rlwy.net',        # Puede ser un host diferente si la base de datos no está en tu máquina local
+        'PORT': '52927',                 # Puerto de la base de datos (generalmente vacío para MySQL)
     }
 }
 
