@@ -14,4 +14,4 @@
 <p>Para mi en lo personal esta parte fue la que me tomo mas tiempo ya que nunca habia deployado un proyecto siempre habia trabajado con localhost y no me habia tomado la molestia de subir proyectos a la nube, Asi que me tomo tiempo encontrar un buen lugar donde alojarlo, hasta que encontre PythonAnywhere y me resulto ya bastante facil
 </p>
 
-<h3>Link del proyecto: https://chucito.pythonanywhere.com/zipcode/64000 como el parametro lo trabje con el url basta con ingresar el zipcode despues de  link/zipcode/<CodigoPostalAqui>
+<h3>Link del proyecto: https://chucito.pythonanywhere.com/zipcode/64000 como el parametro lo trabaje con el url basta con ingresar el zipcode despues de  link/zipcode/<CodigoPostalAqui>
