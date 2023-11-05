@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-@w3*85mzt27vz1j$xh^e&@z9=w&_g-ukscp!$jxfo&q$vqyhbg
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://zipcode-production.up.railway.app/']
 
 
 
